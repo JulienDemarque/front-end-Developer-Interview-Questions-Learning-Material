@@ -2,7 +2,8 @@
 A list of tutorial/books/videos for getting the knowledge necessary to answer the front-end developper interview questions
 
 The original list comes from here: https://github.com/h5bp/Front-end-Developer-Interview-Questions/
-You can find answers on this repo already: https://github.com/utatti/Front-end-Developer-Interview-Questions-And-Answers/tree/master/answers
+You can find answers on this repo already: https://github.com/utatti/Front-end-Developer-Interview-Questions-And-Answers/tree/master/answers, or in this article: https://medium.com/@nupoor_neha/javascript-front-end-interview-questions-1cbc5e32792b
+
 This repo aim is to give a list of in-depth learning material that will allow you to answer the questions rather than a short answer because some subjects (for example prototypal inheritance) need more than a few lines to be explained in depth...
 
 
@@ -45,7 +46,8 @@ This repo aim is to give a list of in-depth learning material that will allow yo
 #### HTML Questions:
 
 * What does a `doctype` do?
-*Answer: https://www.w3schools.com/tags/tag_doctype.asp *
+   
+   _Answer:_ https://www.w3schools.com/tags/tag_doctype.asp 
 
 * What's the difference between full standards mode, almost standards mode and quirks mode?
 * What's the difference between HTML and XHTML?
@@ -101,27 +103,33 @@ This repo aim is to give a list of in-depth learning material that will allow yo
 
 
 * Explain event delegation
-*Answer: https://javascript30.com/ day 25*
+   
+   _Answer:_ https://javascript30.com/ day 25
 
 * Explain how `this` works in JavaScript
-*Answer: https://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/ *
+   
+   _Answer:_ https://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/ 
 
 * Explain how prototypal inheritance works
-*Answer: https://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/ *
+   
+   _Answer:_ https://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/ 
 
 * What do you think of AMD vs CommonJS?
 
 
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
   * What needs to be changed to properly make it an IIFE?
-*Answer: https://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/ *  
+   
+   _Answer:_ https://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/  
   
 * What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
-*Answer: https://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/ *   
+   
+   _Answer:_ https://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/   
   
 * What is a closure, and how/why would you use one?
-*Answer: https://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/ *   
+   
+   _Answer:_ https://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/    
 
 * Can you describe the main difference between a `forEach` loop and a `.map()` loop and why you would pick one versus the other?
 * What's a typical use case for anonymous functions?
@@ -130,7 +138,8 @@ This repo aim is to give a list of in-depth learning material that will allow yo
 * Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 * What's the difference between `.call` and `.apply`?
 * Explain `Function.prototype.bind`.
-*Answer: https://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/ *   
+   
+   _Answer:_ https://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/   
 
 * When would you use `document.write()`?
 * What's the difference between feature detection, feature inference, and using the UA string?
@@ -140,10 +149,12 @@ This repo aim is to give a list of in-depth learning material that will allow yo
 * Have you ever used JavaScript templating?
   * If so, what libraries have you used?
 * Explain "hoisting".
-*Answer: https://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/ * 
+   
+   _Answer:_ https://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/  
 
 * Describe event bubbling.
-*Answer: https://javascript30.com/ day 25*
+   
+   _Answer:_ https://javascript30.com/ day 25
 
 * What's the difference between an "attribute" and a "property"?
 * Why is extending built-in JavaScript objects not a good idea?
